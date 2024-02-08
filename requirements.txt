@@ -1,3 +1,14 @@
 streamlit
 numpy
 matplotlib
+arcgis
+arcgis.gis
+arcgis.features
+arcgis.geometry
+pathlib
+zipfile 
+pandas
+datetime
+geopandas
+shapely.geometry
+pyproj
