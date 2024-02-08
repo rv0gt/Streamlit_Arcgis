@@ -3,7 +3,6 @@ numpy
 matplotlib
 arcgis
 pathlib
-zipfile 
 pandas
 datetime
 geopandas
