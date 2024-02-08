@@ -6,5 +6,5 @@ pathlib
 pandas
 datetime
 geopandas
-shapely.geometry
+shapely
 pyproj
