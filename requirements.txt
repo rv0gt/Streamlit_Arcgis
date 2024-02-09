@@ -8,3 +8,4 @@ datetime
 geopandas == 0.14.2
 shapely == 2.0.1
 pyproj == 3.6.1
+gssapi
